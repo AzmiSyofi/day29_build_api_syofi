@@ -1,0 +1,19 @@
+{
+  "name": "assignment_day29_build_api_syofi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzmiSyofi/day29_build_api_syofi.git"
+  },
+  "author": "M. Syofi Azmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzmiSyofi/day29_build_api_syofi/issues"
+  },
+  "homepage": "https://github.com/AzmiSyofi/day29_build_api_syofi#readme"
+}
