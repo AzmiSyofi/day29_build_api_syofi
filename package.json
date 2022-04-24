@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AzmiSyofi/day29_build_api_syofi/issues"
   },
-  "homepage": "https://github.com/AzmiSyofi/day29_build_api_syofi#readme"
+  "homepage": "https://github.com/AzmiSyofi/day29_build_api_syofi#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
